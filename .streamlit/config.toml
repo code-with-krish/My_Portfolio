@@ -1,0 +1,18 @@
+[theme]
+# Bold and vibrant purple accent
+primaryColor = "#c084fc"  # Bright violet (Tailwind 'purple-400')
+
+# Dark purple-tinted background
+backgroundColor = "#1e1b2e"  # Dark purple-gray (deep, elegant)
+
+# Sidebar with a slightly brighter purple shade
+secondaryBackgroundColor = "#2a213d"  # Slightly lighter purple tone
+
+# Soft lavender text for better purple feel
+textColor = "#f4f0ff"  # Very light purple-white
+
+# Clean modern font
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
