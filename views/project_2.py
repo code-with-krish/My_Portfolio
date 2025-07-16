@@ -27,7 +27,7 @@ st.markdown("""
 st.markdown("### 📌 Projects Inside the Repository")
 st.markdown("""
 - ✅ Student Exam's Math Score Predictor  
-- ✅  
+
 """)
 
 # ------------------- GITHUB LINK -------------------
