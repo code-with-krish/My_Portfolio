@@ -39,10 +39,3 @@ st.markdown("""
 [![GitHub](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/code-with-krish/End_To_End-ML-Projects)
 """, unsafe_allow_html=True)
 
-# ------------------- SCREENSHOT (OPTIONAL) -------------------
-image_path = r"F:\STREAMLIT\assets\thumbnail-840x430.png"
-if os.path.exists(image_path):
-    st.image(image_path, caption="Project Dashboard or UI", use_container_width=True)
-else:
-    st.warning(f"⚠️ Image not found at: {image_path}")
-
