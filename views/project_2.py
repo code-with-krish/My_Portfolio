@@ -26,11 +26,8 @@ st.markdown("""
 # ------------------- PROJECT HIGHLIGHTS -------------------
 st.markdown("### 📌 Projects Inside the Repository")
 st.markdown("""
-- ✅ Student Exam Score Predictor  
-- ✅ House Price Prediction  
-- ✅ Customer Churn Detection  
-- ✅ Salary Classification using Logistic Regression  
-- ✅ Diabetes Prediction  
+- ✅ Student Exam's Math Score Predictor  
+- ✅  
 """)
 
 # ------------------- GITHUB LINK -------------------
