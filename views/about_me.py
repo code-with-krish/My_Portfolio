@@ -16,7 +16,8 @@ col1, col2, col3 = st.columns([1, 2, 1], gap="small")
 
 # -- Left: Profile Image --
 with col1:
-    st.image(r"F:\STREAMLIT\assets\converted_image.png", use_container_width=True)
+    st.image(r"assets/converted_image.png", use_container_width=True)
+
 
 
 # -- Middle: Name, Tagline, Contact, Logos --
